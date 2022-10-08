@@ -8414,8 +8414,6 @@
         "use strict";
         // @wf-will-never-add-flow-to-this-file
 
-        /* globals document, window, localStorage, WEBFLOW_API_HOST, WEBFLOW_DEFAULT_HOST */
-
         /* eslint-disable no-var */
 
         /**
